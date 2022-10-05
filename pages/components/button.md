@@ -1,6 +1,6 @@
 # Button
 
-Use buttons to initialize an important action or to highlight the user journey.
+Use buttons to initialize an important action or to highlight the user journey. Here you can change the docs as Design System / Component owner.
 
 ## Type Usage
 

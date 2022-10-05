@@ -2,15 +2,7 @@
 
 Use buttons to initialize an important action or to highlight the user journey.
 
-
-## When to use
-
-* Use a Button to enable to execute an action (like "submit", "delete", "add" or "edit").
-* Use a Button to change the state of an application, which almost always happens on the same page.
-
-## Types
-
-To ensure a seamless UX in all Porsche web applications it is recommended to use the Button as follows
+## Type Usage
 
 | Type | Usage |
 |----|----|
